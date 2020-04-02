@@ -3,6 +3,10 @@ pubic class Test{
 	System.out.println("Hello");
 	System.out.println("Hello World");
 	System.out.println("hotfix add");
-	SYstem.out.println("master add");
+<<<<<<< HEAD
+	System.out.println("master add");
+=======
+	System.out.println("hotfix add2");
+>>>>>>> hotfix
 	}
 }
